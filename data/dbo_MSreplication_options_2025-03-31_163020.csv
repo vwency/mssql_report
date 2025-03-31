@@ -1,0 +1,4 @@
+optname,value,major_version,minor_version,revision,install_failures
+transactional,true,90,0,0,0
+merge,true,90,0,0,0
+security_model,true,90,0,0,0
